@@ -12,7 +12,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-## Social Links
-![Vkontakte](https://img.shields.io/bdge/-Vkontakte-090909?style=for-the-badge&logoColor=1C9DEB)
 
 [![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)]
