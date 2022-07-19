@@ -5,6 +5,9 @@
 ## Skills
 ![Group 1](https://user-images.githubusercontent.com/103760832/179835855-e4de2c00-e72a-4a1e-a6d5-cf397871eaf9.png)
 
-## Follow Me
-![Vkontakte](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/vk-logo-transparent%20(1).png)
+
+
+#Phonk Supra
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
