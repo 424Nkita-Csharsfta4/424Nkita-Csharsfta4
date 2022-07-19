@@ -13,5 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-<iframe width="1324" height="552" src="https://www.youtube.com/embed/H1OXCCpH_E4" title="S is for Supra +(Phonk) (SMILE, SWEET, SISTER...)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/H1OXCCpH_E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
