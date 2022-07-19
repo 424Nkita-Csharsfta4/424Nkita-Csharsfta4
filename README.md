@@ -2,18 +2,30 @@
 
 ## I'm a beginner Programing front-end  and mobile development
 
-## Skills
-![Group 1](https://user-images.githubusercontent.com/103760832/179835855-e4de2c00-e72a-4a1e-a6d5-cf397871eaf9.png)
+## Language and Tools
+![JavaScript](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/javascript-original.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![C#](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/csharp-original.svg)
 
-#Phonk Supra
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![HTML5](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/html5-original.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![CSS3](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/css3-original.svg)
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/H1OXCCpH_E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
+![Scss](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/sass-original.svg)
 
+![Tailwind](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/tailwindcss-original-wordmark.svg)
+
+![Jqury](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/jquery-original.svg)
+
+![Bootstrap](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/bootstrap-original.svg)
+
+![Sass](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/sass-original.svg)
+
+![Gulp](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/gulp-plain.svg)
+
+![PHP](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/php-original.svg)
+
+## Social Links
+![Vkontakte](https://img.shields.io/bdge/-Vkontakte-090909?style=for-the-badge&logoColor=1C9DEB)
+
+[![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)]
