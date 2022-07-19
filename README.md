@@ -3,7 +3,7 @@
 ## I'm a beginner Programing front-end  and mobile development
 
 ## Language and Tools
-![JavaScript](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/javascript-original.svg)
+![JavaScript](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/javascript-original.svg  width="50")
 
 ![C#](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/csharp-original.svg)
 
