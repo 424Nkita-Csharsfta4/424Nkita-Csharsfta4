@@ -3,36 +3,26 @@
 ## I'm a beginner Programing front-end  and mobile development
 
 ## Language and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-090909
-?style=for-the-badge&logo=javasccript&logoColor=ffb200)
+![JavaScript](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/javascript-original.svg)
 
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+![C#](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/csharp-original.svg)
 
-![HTML5](https://img.shields.io/badge/HTML5-090909
-?style=for-the-badge&logo=html5&logoColor=FFD275)
+![HTML5](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/html5-original.svg)
 
-![CSS3](https://img.shields.io/badge/CSS3-090909
-?style=for-the-badge&logo=css3&logoColor=40A0FF)
+![CSS3](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/css3-original.svg)
 
-![Scss](https://img.shields.io/badge/Scss-090909
-?style=for-the-badge&logo=scsst&logoColor=FF79B8)
+![Scss](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/sass-original.svg)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-090909
-?style=for-the-badge&logo=tailwindt&logoColor=ffb400)
+![Tailwind](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/tailwindcss-original-wordmark.svg)
 
-![Jqury](https://img.shields.io/badge/Jqury-090909
-?style=for-the-badge&logo=jqury&logoColor=F0FF14)
+![Jqury](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/jquery-original.svg)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-090909
-?style=for-the-badge&logo=bootstrap&logoColor=B114FF)
+![Bootstrap](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/bootstrap-original.svg)
 
-![Sass](https://img.shields.io/badge/Sass-090909
-?style=for-the-badge&logo=sasst&logoColor=FF39B8)
+![Sass](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/sass-original.svg)
 
-![Gulp](https://img.shields.io/badge/Gulp-090909
-?style=for-the-badge&logo=gulp&logoColor=FF5173)
+![Gulp](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/gulp-plain.svg)
 
-![PHP](https://img.shields.io/badge/PHP-090909
-?style=for-the-badge&logo=php&logoColor=8E8BFF)
+![PHP](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/php-original.svg)
 
 Follow Me
