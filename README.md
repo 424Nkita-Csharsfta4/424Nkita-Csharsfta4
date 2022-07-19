@@ -26,4 +26,4 @@
 ![PHP](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/php-original.svg)
 
 ## Follow Me
-![Vkontakte](https://img.shields.io/bdge/-Vkontakte-090909?style=for-the-badge&logoColor=1C9DEB)
+![Vkontakte](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/vk-logo-transparent%20(1).png)
