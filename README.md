@@ -6,8 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909
 ?style=for-the-badge&logo=javasccript&logoColor=ffb200)
 
-![C#](https://img.shields.io/badge/C#-090909
-?style=for-the-badge&logo=c#&logoColor=5B38CD)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909
 ?style=for-the-badge&logo=html5&logoColor=FFD275)
