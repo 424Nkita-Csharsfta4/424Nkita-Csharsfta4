@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Приветствую+🗾+(⌐■_■)+на+своем+gitHub+профиле!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Приветствую+🗾+(⌐■_■)+на+своем+gitHub+профиле! + Я + начинающий + front-end + и +  mobiledev + програмист +💥)](https://git.io/typing-svg)
  </br>
  
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
-
-## I'm a beginner Programing front-end  and mobile development
 
 ## Skills
 
