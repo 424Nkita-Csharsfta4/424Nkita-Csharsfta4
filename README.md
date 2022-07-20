@@ -1,5 +1,7 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋+welcome+to+ereminmaksim+gitHub+profile!)](https://git.io/typing-svg)
+ </br>
 ## I'm a beginner Programing front-end  and mobile development
 
 ## Skills
