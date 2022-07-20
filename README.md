@@ -15,5 +15,8 @@
 
 <a href="https://github.com/ereminmaksim/github-readme-stats">
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ereminmaksim&show_icons=true&include_all_commits=true&theme=radical"      
+alt="ereminmaksim's github stats" />
+
 ## Supra
 [![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)](https://www.youtube.com/watch?v=H1OXCCpH_E4)
