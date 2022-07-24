@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="[https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia](https://github.com/424Nkita-Csharsfta4)" alt="webDev's Github stats" />
+      <img align="left" src="https://github.com/424Nkita-Csharsfta4" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact](https://github.com/424Nkita-Csharsfta4)" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github.com/424Nkita-Csharsfta4" />
     </td>
   </tr>
 </table>
