@@ -13,16 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github.com/424Nkita-Csharsfta4" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github.com/424Nkita-Csharsfta4" />
-    </td>
-  </tr>
-</table>
+
 
 ## Supra 
 [![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)](https://www.youtube.com/watch?v=H1OXCCpH_E4)
