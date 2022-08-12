@@ -5,7 +5,7 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=ff8f19)
+![HTML](https://img.shields.io/badge/-HTML-ff8f19?style=for-the-badge&logo=HTML&logoColor=ff8f19)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=2986cc)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS&logoColor=c27ba0)
 ![Typescript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TYPESCRIPT&logoColor=6fa8dc)
