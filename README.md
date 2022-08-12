@@ -5,12 +5,12 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/HTML-ff8f19)
-![CSS](https://img.shields.io/badge/CSS-2986cc)
-![SCSS/SASS](https://img.shields.io/badge/SCSS-c27ba0)
-![Typescript](https://img.shields.io/badge/TypeScript-6fa8dc)
+![HTML](https://img.shields.io/badge/-HTML-ff8f19)
+![CSS](https://img.shields.io/badge/-CSS-2986cc)
+![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)
+![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D)
-![C#](https://img.shields.io/badge/-c#.net-c55df5)
+![C#](https://img.shields.io/badge/-c#-c55df5)
 ![VUE](https://img.shields.io/badge/-Vue-acf78b)
 ![JQURY](https://img.shields.io/badge/-JQURY-76a5af)
 ![JSON](https://img.shields.io/badge/-JSON-ffcd34)
