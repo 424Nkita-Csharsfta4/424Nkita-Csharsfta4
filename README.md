@@ -10,7 +10,7 @@
 ![SCSS/SASS](https://img.shields.io/badge/SCSS-c27ba0)
 ![Typescript](https://img.shields.io/badge/TypeScript-6fa8dc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D)
-![C#](https://img.shields.io/badge/-Csharp-c55df5)
+![C#](https://img.shields.io/badge/-C#-c55df5)
 ![VUE](https://img.shields.io/badge/-Vue-acf78b)
 ![JQURY](https://img.shields.io/badge/-JQURY-76a5af)
 ![JSON](https://img.shields.io/badge/-JSON-ffcd34)
