@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&duration=8000&pause=2000&color=FF260E&background=39FF4CCB&width=435&lines=Приветствую😊+на+своем+gitHub+профиле💥+Я+Junior+frontend+из+Тирасполя🗾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&duration=8000&pause=2000&color=FF260E&background=39FF4C00&width=500&lines=Приветствую😊+на+своем+gitHub+профиле💥+Я+Junior+frontend+из+Тирасполя🗾)](https://git.io/typing-svg)
  </br>
  
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
