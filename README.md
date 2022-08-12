@@ -5,10 +5,10 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/-ff8f19?style=for-the-badge&logo=HTML&logoColor=ff8f19)
-![CSS](https://img.shields.io/badge/-2986cc?style=for-the-badge&logo=CSS&logoColor=2986cc)
-![SCSS/SASS](https://img.shields.io/badge/-c27ba0?style=for-the-badge&logo=SCSS&logoColor=c27ba0)
-![Typescript](https://img.shields.io/badge/-6fa8dc?style=for-the-badge&logo=TYPESCRIPT&logoColor=6fa8dc)
+![HTML](https://img.shields.io/badge/HTML-ff8f19)
+![CSS](https://img.shields.io/badge/CSS-2986cc?style=for-the-badge&logo=CSS&logoColor=2986cc)
+![SCSS/SASS](https://img.shields.io/badge/SCSS-c27ba0?style=for-the-badge&logo=SCSS&logoColor=c27ba0)
+![Typescript](https://img.shields.io/badge/TypeScript-6fa8dc?style=for-the-badge&logo=TYPESCRIPT&logoColor=6fa8dc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C#](https://img.shields.io/badge/-C#-c55df5?style=for-the-badge&logo=C#&logoColor=c55df5)
 ![VUE](https://img.shields.io/badge/-VUE-acf78b?style=for-the-badge&logo=VUE&logoColor=acf78b)
