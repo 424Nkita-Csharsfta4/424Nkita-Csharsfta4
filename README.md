@@ -4,9 +4,16 @@
  
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
-## Skills
-
-[![HTML5](./images/html.png)](https://www.w3schools.com/html/)  [![CSS](./images/css.png)](https://www.w3schools.com/css/) [![SCSS](./images/scss.png)](https://sass-lang.com/) [![JS](./images/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](./images/react.png)](https://reactjs.org/) [![Redux](./images/redux.png)](https://redux.js.org/) [![Webpack](./images/webpack.png)](https://webpack.js.org/) [![BEM](./images/bem.png)](https://ru.bem.info/) [![NPM](./images/npm.png)](https://www.npmjs.com/) [![Yarn](./images/yarn.png)](https://yarnpkg.com/) [![Git](./images/git.png)](https://git-scm.com/) [![GitHub](./images/github.png)](https://github.com/) [![VSCode](./images/vscode.png)](https://code.visualstudio.com/) [![Figma](./images/figma.png)](https://www.figma.com/) [![Trello](./images/trello.png)](https://trello.com) [![Codepen](./images/codepen.png)](https://codepen.io/) [![Slack](./images/slack.png)](https://slack.com/) [![TypeScript](./images/typescript.png)](https://www.typescriptlang.org/)
+### Languages and Tools:
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css&logoColor=097CDB)
+![SCSS/SASS](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=scss&logoColor=F8C52C)
+![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=F88C00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=c#&logoColor=E5D3FF)
+![Qjury](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![VUE](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ## Statistik
 
