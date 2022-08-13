@@ -19,14 +19,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-9fc5e8)
 
 ## Statistik
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4
-&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)
 
