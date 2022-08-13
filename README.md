@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)
+
 
 
 
