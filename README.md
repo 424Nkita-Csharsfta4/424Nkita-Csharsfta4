@@ -20,9 +20,9 @@
 
 ## Statistik
 
-[![Top Langs](https://github.com/424Nkita-Csharsfta4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/424Nkita-Csharsfta4)](https://github.com/anuraghazra/github-readme-stats)]
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)]
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)
 
 
 
