@@ -21,8 +21,6 @@
 ## Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4)
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)
 
 
