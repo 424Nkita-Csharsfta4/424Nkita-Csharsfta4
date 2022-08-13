@@ -19,8 +19,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-9fc5e8)
 
 ## Statistik
-
-[![Top Langs](https://github.com/424Nkita-Csharsfta4)](https://github.com/anuraghazra/github-readme-stats)]
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4
+&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4
+&show_icons=true" />
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)
 
