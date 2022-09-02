@@ -5,6 +5,7 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 ### Languages and Tools:
+<table>
 ![HTML](https://img.shields.io/badge/-HTML-ff8f19)
 ![CSS](https://img.shields.io/badge/-CSS-2986cc)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)
@@ -20,6 +21,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5)
 ![Figma](https://img.shields.io/badge/-Figma-c27ba0)
+ </table>
 ## Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
 </br>
