@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-ff8f19)
+![HTML]align="center"(https://img.shields.io/badge/-HTML-ff8f19)
 ![CSS](https://img.shields.io/badge/-CSS-2986cc)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)
 ![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)
