@@ -4,6 +4,12 @@
  
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-ff8f19)
