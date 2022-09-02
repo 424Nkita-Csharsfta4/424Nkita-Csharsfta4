@@ -20,6 +20,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-9fc5e8)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5)
+![Webpac](https://img.shields.io/badge/-Webpac-76a5af)
 ![Figma](https://img.shields.io/badge/-Figma-c27ba0)
 
 ## Statistik
