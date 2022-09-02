@@ -5,14 +5,20 @@
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ### Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-ff8f19)
+| Language      | Tools         |
+| ------------- | ------------- |
+| ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ![CSS](https://img.shields.io/badge/-CSS-2986cc)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)
 ![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)
