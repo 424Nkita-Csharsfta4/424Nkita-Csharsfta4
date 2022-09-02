@@ -17,7 +17,8 @@
 | ![C#](https://img.shields.io/badge/-Csharp-c55df5)  | ![Webpac](https://img.shields.io/badge/-Webpac-76a5af)  |
 | ![VUE](https://img.shields.io/badge/-Vue-acf78b)  | ![Figma](https://img.shields.io/badge/-Figma-c27ba0)  |
 | ![SQL](https://img.shields.io/badge/-SQL-bcbcbcc) | ![Ionic](https://img.shields.io/badge/-Ionic-6fa8dc)|
-| ![PHP](https://img.shields.io/badge/-PHP-9fc5e8) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)|
+| ![PHP](https://img.shields.io/badge/-PHP-9fc5e8) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)|
 
 
 ## Statistik
