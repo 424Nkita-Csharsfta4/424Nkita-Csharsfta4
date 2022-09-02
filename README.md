@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-c27ba0)
 
 ## Statistik
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&layout=compact&theme=vision-friendly-dark)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)
 
