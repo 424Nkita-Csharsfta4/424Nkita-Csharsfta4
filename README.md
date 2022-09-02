@@ -9,31 +9,17 @@
 
 | Language      | Tools         |
 | ------------- | ------------- |
-|    ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | ![JQURY](https://img.shields.io/badge/-JQURY-76a5af)  |
+| ![CSS](https://img.shields.io/badge/-CSS-2986cc) | ![JSON](https://img.shields.io/badge/-JSON-ffcd34)  |
+| ![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)  | ![API](https://img.shields.io/badge/-API-ffe599)  |
+| ![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)  | ![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)  |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D)  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5) |
+| ![C#](https://img.shields.io/badge/-Csharp-c55df5)  | ![Webpac](https://img.shields.io/badge/-Webpac-76a5af)  |
+| ![VUE](https://img.shields.io/badge/-Vue-acf78b)  | ![Figma](https://img.shields.io/badge/-Figma-c27ba0)  |
+| ![SQL](https://img.shields.io/badge/-SQL-bcbcbcc) | 
+| ![PHP](https://img.shields.io/badge/-PHP-9fc5e8) | 
 
-
-![CSS](https://img.shields.io/badge/-CSS-2986cc)
-![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)
-![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D)
-![C#](https://img.shields.io/badge/-Csharp-c55df5)
-![VUE](https://img.shields.io/badge/-Vue-acf78b)
-![JQURY](https://img.shields.io/badge/-JQURY-76a5af)
-![JSON](https://img.shields.io/badge/-JSON-ffcd34)
-![SQL](https://img.shields.io/badge/-SQL-bcbcbcc)
-![API](https://img.shields.io/badge/-API-ffe599)
-![PHP](https://img.shields.io/badge/-PHP-9fc5e8)
-![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5)
-![Webpac](https://img.shields.io/badge/-Webpac-76a5af)
-![Figma](https://img.shields.io/badge/-Figma-c27ba0)
+##Mobile  ![Ionic](https://img.shields.io/badge/-Tailwind-6fa8dc)
 
 ## Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
