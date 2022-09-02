@@ -17,7 +17,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-bcbcbcc)
 ![API](https://img.shields.io/badge/-API-ffe599)
 ![PHP](https://img.shields.io/badge/-PHP-9fc5e8)
+![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5)
+![Figma](https://img.shields.io/badge/-Figma-c27ba0)
 ## Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
 </br>
