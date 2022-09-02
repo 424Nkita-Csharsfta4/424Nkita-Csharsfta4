@@ -12,7 +12,7 @@
 | ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | ![JQURY](https://img.shields.io/badge/-JQURY-76a5af)  |
 | ![CSS](https://img.shields.io/badge/-CSS-2986cc) | ![JSON](https://img.shields.io/badge/-JSON-ffcd34)  |
 | ![SCSS/SASS](https://img.shields.io/badge/-SCSS-c27ba0)  | ![API](https://img.shields.io/badge/-API-ffe599)  |
-| ![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)  | ![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)  |
+| ![Typescript](https://img.shields.io/badge/-TypeScript-6fa8dc)  | ![Tailwind](https://img.shields.io/badge/-Tailwind-6fa8dc)  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-E9D54D)  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-c55df5) |
 | ![C#](https://img.shields.io/badge/-Csharp-c55df5)  | ![Webpac](https://img.shields.io/badge/-Webpac-76a5af)  |
 | ![VUE](https://img.shields.io/badge/-Vue-acf78b)  | ![Figma](https://img.shields.io/badge/-Figma-c27ba0)  |
