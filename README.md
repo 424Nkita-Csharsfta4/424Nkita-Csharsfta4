@@ -9,7 +9,7 @@
 
 | Language      | Tools         |
 | ------------- | ------------- |
-| ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | Content Cell  |
+|    ![HTML](https://img.shields.io/badge/-HTML-ff8f19) | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
