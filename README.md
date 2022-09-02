@@ -20,16 +20,6 @@
 | ![PHP](https://img.shields.io/badge/-PHP-9fc5e8) |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)| ![Ionic](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/giphy.gif?raw=true)|
 
+| ## Statistik  | ## Supra        |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical) | [![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)](https://www.youtube.com/watch?v=H1OXCCpH_E4) |
 
-## Statistik
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)
-
-
-
-
-
-
-## Supra 
-[![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)](https://www.youtube.com/watch?v=H1OXCCpH_E4)
