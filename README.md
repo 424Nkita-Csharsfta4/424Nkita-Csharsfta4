@@ -19,7 +19,8 @@
 | ![SQL](https://img.shields.io/badge/-SQL-bcbcbcc) | 
 | ![PHP](https://img.shields.io/badge/-PHP-9fc5e8) | 
 
-##Mobile  ![Ionic](https://img.shields.io/badge/-Tailwind-6fa8dc)
+##Mobile  
+![Ionic](https://img.shields.io/badge/-Ionic-6fa8dc)
 
 ## Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
