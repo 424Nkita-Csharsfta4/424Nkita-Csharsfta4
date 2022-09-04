@@ -8,6 +8,8 @@
 Когда работаю над каждой задачей или проектом, узнаю что-то новое, не боюсь попросить помощи и совета.
 
 Для меня важно не только набраться опыта, но и занять свое место в команде, где я могу быть полезен.
+
+
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
 
