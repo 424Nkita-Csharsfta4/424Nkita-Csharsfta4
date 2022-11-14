@@ -32,6 +32,7 @@
 
 |  Statistik    |  Supra   |
 |---------------|------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical) | ![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)|![github-user-contribution](https://user-images.githubusercontent.com/103760832/201750760-fefb4739-fd89-4b7f-8de8-80ea8e7c24e1.svg)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical) | ![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)|![github-user-contribution]
+(https://user-images.githubusercontent.com/103760832/201750760-fefb4739-fd89-4b7f-8de8-80ea8e7c24e1.svg)
 
 
