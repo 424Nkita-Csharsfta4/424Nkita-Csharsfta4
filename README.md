@@ -16,9 +16,6 @@
 
 
 ### Languages and Tools:
-
-| Language      | Tools         |
-| ------------- | ------------- |
 <p align="center">
  
     
