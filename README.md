@@ -32,9 +32,13 @@
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"></code>
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
 </p>
-<a target="_blank" href="https://github.com/424Nkita-Csharsfta4/github-readme-stats">
-<img src="https://github-readme-stats.424Nkita-Csharsfta4.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact&theme=graywhite" width="400" />
- </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&hide=javascript,html)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
+![424Nkita-Csharsfta4 github stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&hide=contribs,prs)
+![424Nkita-Csharsfta4 github stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=tokyonight)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=424Nkita-Csharsfta4&repo=github-readme-stats)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
+___________________________
 |  Statistik    |  Supra   |
 |---------------|------------|
 |[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)](https://github.com/424Nkita-Csharsfta4/github-readme-stats) | ![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)
