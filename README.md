@@ -35,7 +35,7 @@
 
 |  Statistik    |  Supra   |
 |---------------|------------|
-| <a target="_blank" href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img src="https://github-readme-stats.424Nkita-Csharsfta4.vercel.app/api?username=424Nkita-Csharsfta4&count_private=true&show_icons=true&theme=graywhite" width="400" /></a> | ![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)
+|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4)](https://github.com/424Nkita-Csharsfta4/github-readme-stats) | ![Footer](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/assets/2.gif)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/103760832/201751006-e2a8188c-f1aa-4364-8b43-b652950028e9.svg)
 
