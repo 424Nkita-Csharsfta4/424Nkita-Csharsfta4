@@ -34,14 +34,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&exclude_repo=github-readme-stats,424Nkita-Csharsfta4.github.io)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
 
-<a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=424Nkita-Csharsfta4&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/424Nkita-Csharsfta4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=424Nkita-Csharsfta4&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
