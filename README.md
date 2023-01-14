@@ -35,7 +35,7 @@
 
 ![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
 
-![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true)
+![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=tokyonight)
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
