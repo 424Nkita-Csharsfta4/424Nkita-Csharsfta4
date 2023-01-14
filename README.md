@@ -33,7 +33,17 @@
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
 </p>
 
-![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=tokyonight)
 
