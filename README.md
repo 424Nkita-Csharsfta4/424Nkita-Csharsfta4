@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=8000&pause=2000&color=F70000&center=true&vCenter=true&width=850&height=100&lines=Приветствую😊+на+своем+gitHub+профиле💥+Я+Junior+Frontend+Developer+из+Тирасполя🗾)](https://git.io/typing-svg)
  </br>
-<img src=""/>
+<img src="https://media4.giphy.com/media/lgTpcy4dkdUc0/giphy.gif?cid=ecf05e47gwskr4apirazwpjmcnlpyz1mksmaga0b2rdaughb&rid=giphy.gif&ct=g"/>
 
  Меня зовут Никита, мне 18 лет, я начинающий фронтенд разработчик. Мои личные качества: способность достигать целей, настойчивость, стремление к профессиональному развитию.
 
