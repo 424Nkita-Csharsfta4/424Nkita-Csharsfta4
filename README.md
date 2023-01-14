@@ -33,7 +33,7 @@
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=10)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=13)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
