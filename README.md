@@ -14,33 +14,38 @@
 
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif)](https://vk.com/php1234python)
 
-<img src="assests/borderseperator.gif">
+
+__________________________________________________________________________________________________________
 ### Languages and Tools:
 <p align="center">
   <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg"></code>
  </br>
   <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%23.svg"></code><\br>
+  <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%23.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/vuejs.svg"></code>
- <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"></code><\br>
+ <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"></code>
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
    <code><img src="https://skillicons.dev/icons?i=react"></code>
    <code><img src="https://skillicons.dev/icons?i=ts"></code>
-    <code><img src="https://skillicons.dev/icons?i=kotlin"></code><\br>
+    <code><img src="https://skillicons.dev/icons?i=kotlin"></code>
     <code><img src="https://skillicons.dev/icons?i=figma"></code> 
     <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
 </p>
+__________________________________________________________________________________________________________
 ### Next time Learning:
+
 <code><img src="https://skillicons.dev/icons?i=flutter"></code> 
 <code><img src="https://skillicons.dev/icons?i=dart"></code> 
 
+__________________________________________________________________________________________________________
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=13)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
+
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
