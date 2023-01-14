@@ -32,9 +32,8 @@
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"></code>
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
 </p>
-<img src="https://streak-stats.demolab.com?user=424Nkita-Csharsfta4&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-<img 
-src="https://github-readme-stats-i66v.vercel.app/api?username=424Nkita-Csharsfta&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa_commits=true" height="150" alt="stats graph"  />
+![424Nkita-Csharsfta4 GitHub stats](https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&show_icons=true&theme=radical)
+
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/103760832/201751006-e2a8188c-f1aa-4364-8b43-b652950028e9.svg)
