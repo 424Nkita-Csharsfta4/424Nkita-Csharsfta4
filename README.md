@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=8000&pause=2000&color=F70000&center=true&vCenter=true&width=850&height=100&lines=Приветствую😊+на+своем+gitHub+профиле💥+Я+Junior+Frontend+Developer+из+Тирасполя🗾)](https://git.io/typing-svg)
  </br>
-[![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif width="500px")](https://vk.com/php1234python)
+[![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif )](https://vk.com/php1234python)
 
  Меня зовут Никита, мне 18 лет, я начинающий фронтенд разработчик. Мои личные качества: способность достигать целей, настойчивость, стремление к профессиональному развитию.
 
