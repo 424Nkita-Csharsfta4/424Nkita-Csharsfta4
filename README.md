@@ -35,7 +35,7 @@
 
 
 
-[!424Nkita-Csharsfta4](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=8)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
 
 [![424Nkita-Csharsfta4 Card](https://github-readme-stats.vercel.app/api/pin/?username=424Nkita-Csharsfta4&repo=github-readme-stats)](https://github.com/424Nkita-Csharsfta4/github-readme-stats)
 
