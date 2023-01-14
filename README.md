@@ -3,7 +3,7 @@
  </br>
 [![Header](https://github.com/424Nkita-Csharsfta4/424Nkita-Csharsfta4/blob/main/424Nkita-Csharsfta4-main/assets/1.gif )](https://vk.com/php1234python)
 </br>
-<img width="300px" src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+<img width="1000px" src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
 </br>
  Меня зовут Никита, мне 18 лет, я начинающий фронтенд разработчик. Мои личные качества: способность достигать целей, настойчивость, стремление к профессиональному развитию.
 
