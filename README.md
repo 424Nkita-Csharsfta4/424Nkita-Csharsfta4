@@ -30,6 +30,7 @@
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"></code>
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
    <code><img src="https://skillicons.dev/icons?i=react"></code>
+     <code><img src="https://skillicons.dev/icons?i=vue"></code>
 </p>
 ### Next time Learning:
 
