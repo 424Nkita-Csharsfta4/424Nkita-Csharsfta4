@@ -31,9 +31,14 @@
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
    <code><img src="https://skillicons.dev/icons?i=react"></code>
    <code><img src="https://skillicons.dev/icons?i=ts"></code>
-     <code><img src="https://skillicons.dev/icons?i=ionic"></code>
+    <code><img src="https://skillicons.dev/icons?i=kotlin"></code>
+    <code><img src="https://skillicons.dev/icons?i=figma"></code> 
+    <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
 </p>
 ### Next time Learning:
+<code><img src="https://skillicons.dev/icons?i=flutter"></code> 
+<code><img src="https://skillicons.dev/icons?i=dart"></code> 
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=13)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
 
