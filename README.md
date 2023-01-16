@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 
 #Я на LeetCode
-<a href="https://leetcode.com/Nikita_Dev/"/>
+<a href="https://leetcode.com/Nikita_Dev/">LeetCode</a>
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
