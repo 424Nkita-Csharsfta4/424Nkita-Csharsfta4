@@ -27,6 +27,7 @@ ________________________________________________________________________________
    <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
    <code><img src="https://skillicons.dev/icons?i=react"></code>
    <code><img src="https://skillicons.dev/icons?i=ts"></code>
+     <code><img src="https://skillicons.dev/icons?i=next"></code>
     <code><img src="https://skillicons.dev/icons?i=kotlin"></code>
     <code><img src="https://skillicons.dev/icons?i=figma"></code> 
     <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
