@@ -39,7 +39,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=13)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
+
 
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Nikita_Dev&theme=dark)](https://leetcode.com/Nikita_Dev/)
