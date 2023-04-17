@@ -41,6 +41,10 @@ ________________________________________________________________________________
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=15)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=424Nkita-Csharsfta4&theme=dark&hide_border=true&layout=compact&langs_count=10" />
+
+| <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact&hide_border=true&theme=dark" /></a> |
+
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Nikita_Dev&theme=dark)](https://leetcode.com/Nikita_Dev/)
 
