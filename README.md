@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Nikita_Dev&theme=dark)](https://leetcode.com/Nikita_Dev/)
 
-[![Codewars stats](https://www.codewars.com/users/424Nkita-Csharsfta4/badges/large)]
+[Codewars stats](https://www.codewars.com/users/424Nkita-Csharsfta4/badges/large)
 
 [![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
