@@ -28,13 +28,9 @@ ________________________________________________________________________________
     <code><img src="https://skillicons.dev/icons?i=kotlin"></code>
     <code><img src="https://skillicons.dev/icons?i=figma"></code> 
     <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
-</p>
-
-
-### Next time Learning:
-
-<code><img src="https://skillicons.dev/icons?i=flutter"></code> 
+    <code><img src="https://skillicons.dev/icons?i=flutter"></code> 
 <code><img src="https://skillicons.dev/icons?i=dart"></code> 
+</p>
 
 __________________________________________________________________________________________________________
 
