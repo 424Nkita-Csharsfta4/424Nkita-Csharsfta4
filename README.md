@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 [![Codewars stats](https://www.codewars.com/users/424Nkita-Csharsfta4/badges/large)](https://www.codewars.com/users/424Nkita-Csharsfta4)
 
-[![424Nkita-Csharsfta4 Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=424Nkita-Csharsfta4&custom_title=424Nkita-Csharsfta4's%20GitHub%20Activity%20Graph&&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=424Nkita-Csharsfta4&bg_color=070807&color=c9ff33&line=44ee47&point=d31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/103760832/201751006-e2a8188c-f1aa-4364-8b43-b652950028e9.svg)
