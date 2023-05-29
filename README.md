@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=15)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
 
-[![wakatime](https://wakatime.com/badge/user/cf2e46aa-fc31-44e5-8e73-04b1a4814573.svg)](https://wakatime.com/@cf2e46aa-fc31-44e5-8e73-04b1a4814573)
+[![wakatime](https://wakatime.com/badge/user/cf2e46aa-fc31-44e5-8e73-04b1a4814573.svg)](https://wakatime.com/@cf2e46aa-fc31-44e5-8e73-04b1a4814573)]
 
 | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact&hide_border=true&theme=dark" /></a> |
 
