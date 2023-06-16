@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-
+<a href="https://career.habr.com/424nkita-csharsfta4">Хабр Карьера<a/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=15)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
 
