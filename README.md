@@ -42,6 +42,9 @@ ________________________________________________________________________________
 
 |[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=it_mems&theme=radical&layout=compact)](https://wakatime.com/it_mems)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=424Nkita-Csharsfta4&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=424Nkita-Csharsfta4&theme=github_dark)
+
 | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact&hide_border=true&theme=dark" /></a> |
 
 
