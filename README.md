@@ -48,6 +48,8 @@ ________________________________________________________________________________
 | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=424Nkita-Csharsfta4&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/424Nkita-Csharsfta4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&layout=compact&hide_border=true&theme=dark" /></a> |
 
 
+<h3><a href="https://www.rabota.md/ru/resume/it/378901">Моё Резюме на Rabota.md</a></h3>
+
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Nikita_Dev&theme=dark)](https://leetcode.com/Nikita_Dev/)
 
 [![Codewars stats](https://www.codewars.com/users/424Nkita-Csharsfta4/badges/large)](https://www.codewars.com/users/424Nkita-Csharsfta4)
