@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ```mermaid
 graph LR
-    subgraph Моё Кунг-фу
+    subgraph Мой Stack
         TypeScript
         Dart
         Flutter
@@ -57,7 +57,7 @@ graph LR
         B{Никита}
     end
 
-    style  Языки Программирования fill:white,stroke:#383,stroke-width:3px,color:black
+    style Кунг-Фу fill:white,stroke:#383,stroke-width:3px,color:black
     style TypeScript fill:white,stroke:#007ACC,stroke-width:3px,color:black
     style Dart fill:white,stroke:#00B4AB,stroke-width:3px,color:black
     style Flutter fill:white,stroke:#02569B,stroke-width:3px,color:black
@@ -84,6 +84,7 @@ graph LR
     Css --> B
     Scss --> B
     Node.js --> B
+
 ```
 
 [![wakatime](https://wakatime.com/badge/user/cf2e46aa-fc31-44e5-8e73-04b1a4814573.svg)](https://wakatime.com/@cf2e46aa-fc31-44e5-8e73-04b1a4814573)
