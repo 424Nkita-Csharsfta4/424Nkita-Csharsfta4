@@ -36,7 +36,55 @@ ________________________________________________________________________________
 
 <a href="https://career.habr.com/424nkita-csharsfta4">Хабр Карьера<a/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=424Nkita-Csharsfta4&langs_count=15)%5D(https://github.com/424Nkita-Csharsfta4/github-readme-stats"/>
+```mermaid
+graph LR
+    subgraph Моё Кунг-фу
+        TypeScript
+        Dart
+        Flutter
+        JavaScript
+        CSharp[C#]
+        Vue
+        React
+        Api
+        Html
+        Css
+        Scss
+        Node.js
+    end
+
+    subgraph Я
+        B{Никита}
+    end
+
+    style  Языки Программирования fill:white,stroke:#383,stroke-width:3px,color:black
+    style TypeScript fill:white,stroke:#007ACC,stroke-width:3px,color:black
+    style Dart fill:white,stroke:#00B4AB,stroke-width:3px,color:black
+    style Flutter fill:white,stroke:#02569B,stroke-width:3px,color:black
+    style JavaScript fill:white,stroke:#279,stroke-width:3px,color:black
+    style CSharp fill:white,stroke:#383,stroke-width:3px,color:black
+    style Vue fill:white,stroke:#41B883,stroke-width:3px,color:black
+    style React fill:white,stroke:#61DAFB,stroke-width:3px,color:black
+    style Api fill:white,stroke:#6C757D,stroke-width:3px,color:black
+    style Html fill:white,stroke:#E44D26,stroke-width:3px,color:black
+    style Css fill:white,stroke:#264DE4,stroke-width:3px,color:black
+    style Scss fill:white,stroke:#CD6799,stroke-width:3px,color:black
+    style Node.js fill:white,stroke:#339933,stroke-width:3px,color:black
+    style B fill:white,stroke:#F9A359,stroke-width:5px,color:Orange
+
+    TypeScript --> B
+    Dart --> B
+    Flutter --> B
+    JavaScript --> B
+    CSharp --> B
+    Vue --> B
+    React --> B
+    Api --> B
+    Html --> B
+    Css --> B
+    Scss --> B
+    Node.js --> B
+```
 
 [![wakatime](https://wakatime.com/badge/user/cf2e46aa-fc31-44e5-8e73-04b1a4814573.svg)](https://wakatime.com/@cf2e46aa-fc31-44e5-8e73-04b1a4814573)
 
