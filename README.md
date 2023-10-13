@@ -26,7 +26,6 @@ ________________________________________________________________________________
    <code><img src="https://skillicons.dev/icons?i=react"></code>
    <code><img src="https://skillicons.dev/icons?i=ts"></code>
      <code><img src="https://skillicons.dev/icons?i=next"></code>
-   
     <code><img src="https://skillicons.dev/icons?i=figma"></code> 
     <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
     <code><img src="https://skillicons.dev/icons?i=flutter"></code> 
