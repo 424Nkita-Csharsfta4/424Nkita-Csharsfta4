@@ -30,6 +30,7 @@ ________________________________________________________________________________
     <code><img src="https://skillicons.dev/icons?i=tailwind"></code>
     <code><img src="https://skillicons.dev/icons?i=flutter"></code> 
 <code><img src="https://skillicons.dev/icons?i=dart"></code> 
+<code><img  src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=128&q=75"/></code>
 </p>
 
 __________________________________________________________________________________________________________
