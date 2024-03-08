@@ -99,7 +99,7 @@ graph LR
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=424Nkita-Csharsfta4&bg_color=070807&color=c9ff33&line=44ee47&point=d31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p>Crypto Wallet:0x132A2b295537aB817E4414cB23b56468C0B8197a</p>
+<h1>Crypto Wallet:0x132A2b295537aB817E4414cB23b56468C0B8197a</h1>
 
 <img src="https://media4.giphy.com/media/EsK5rLzC0B8iI/giphy.gif?cid=ecf05e47sst23my7md5qsm0e1nczouxl1eoi74ejmmcormo8&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
